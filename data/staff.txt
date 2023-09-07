@@ -1,0 +1,6 @@
+10012,StaffServe,tantay,32,Male,10-10-1994,123324654678,0783245678,12 An dương vương,tan@gmail.com,aaa121
+10023,servingFood,longNguyen,19,Male,18-05-2003,123324654678,0783245678,12 An dương vương,tan@gmail.com,aaa124
+10032,receptionist,datPham,19,Male,18-05-2003,123324654678,0783245678,12 An dương vương,tan@gmail.com,aaa125
+10043,RegionalChief,BaTuong,19,Male,18-05-2003,123324654678,0783245678,12 An dương vương,tan@gmail.com,aaa126
+19885,RegionalChief,PhuongNguyen,21,Female,24-03-2002,123456345126,0775543234,12 Trần Phú,Phuong@gmail.com,aaa127
+71071,Manager,PhuocVinh,21,Male,15-10-2002,123321123321,0702506939,12 An dương vương,p@gmail.com,aaa119

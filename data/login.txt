@@ -1,0 +1,6 @@
+phuocvinh,Phuocvinh123,ADMIN
+BaTuong,Tuongle123,USER
+longnguyen,Longnguyen123,USER
+phuongnguyen,Phuongnguyen123,USER
+datPham,Datpham123,USER
+tantay,Tantay123,USER
